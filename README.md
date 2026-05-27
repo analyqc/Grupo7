@@ -20,6 +20,7 @@ Grupo7/
 ├── README.md
 ├── ETSFormer Consumo Eléctrico_2026.ipynb   # Notebook con el experimento completo
 └── ETSformer_Aplicacion.pptx                # Presentación final del proyecto
+└── LD2011_2014.txt -> descargar link: https://drive.google.com/file/d/1yKZZhPZBy57ij_sp8aF59HikPW8E9q-T/view?usp=sharing
 ```
 
 ---
